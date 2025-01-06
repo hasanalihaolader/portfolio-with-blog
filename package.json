@@ -1,0 +1,43 @@
+{
+  "name": "portfolio-with-blog",
+  "version": "1.0.0",
+  "description": "A personal blog site with her portfolio",
+  "main": "/src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanalihaolader/portfolio-with-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasanalihaolader/portfolio-with-blog/issues"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.83.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
