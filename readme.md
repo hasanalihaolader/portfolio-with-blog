@@ -1,3 +1,4 @@
+<div style="font-family:times new roman; font-size:15px; font-weight:normal">
 
 <h1>A Personal Portfolio and Blog Site Template</h1>
 
@@ -5,7 +6,7 @@
 
 <h3>Overview</h3>
         This Responsive Portfolio and Blog Site Template is a modern and versatile solution for showcasing your personal projects and sharing your insights through a blog. Designed with a clean and elegant     layout, it ensures a seamless user experience across all devices, from mobile to desktop.
-        Built with **HTML5**, **sass**, **tailwind css**, **react** this template is fully responsive and easy to customize, making it an ideal choice for developers, creatives, and professionals looking to establish their online presence.
+        Built with HTML5, sass, tailwind css, react this template is fully responsive and easy to customize, making it an ideal choice for developers, creatives, and professionals looking to establish their online presence.
         <br><h3>Key features include:</h3>
         <ul>
             <li>A dedicated portfolio section to highlight your work with detailed descriptions.</li>
@@ -17,14 +18,13 @@
 
 <h3>Features</h3>
     <ul>
-        <li><b>Modern and Elegant Design:</b> A clean, attractive layout with smooth animations that captivate visitors.</li>
-        <li><b>Built with Tailwind CSS:</h5> A clean, attractive layout with smooth animations that captivate visitors.</li>
-        <li><b>Dynamic and Interactive:</h5> Powered by React, making it easy to customize and manage content dynamically.</li>
-        <li><b>Cross-Browser Compatibility:</h5> Cross-Browser Compatibility: Works flawlessly across all major browsers.</li>
-        <li><b>Fully Responsive:</h5> Optimized for all screen sizes, from desktops to mobile devices.</li>
-        <li><b>Multi-Language Support:</h5>Easily adaptable for different languages to reach a global audience.</li>
-        <li><b>Showcase Your Articles:</h5> A dedicated blog section to publish and share your personal insights and updates.</li>
-        <li><b>Highlight Your Skills and Contributions:</h5> Display your expertise and accomplishments effectively.</li>
+        <li><b>Built with Tailwind CSS:</b> A clean, attractive layout with smooth animations that captivate visitors.</li>
+        <li><b>Dynamic and Interactive:</b> Powered by React, making it easy to customize and manage content dynamically.</li>
+        <li><b>Cross-Browser Compatibility:</b> Cross-Browser Compatibility: Works flawlessly across all major browsers.</li>
+        <li><b>Fully Responsive:</b> Optimized for all screen sizes, from desktops to mobile devices.</li>
+        <li><b>Multi-Language Support:</b>Easily adaptable for different languages to reach a global audience.</li>
+        <li><b>Showcase Your Articles:</b> A dedicated blog section to publish and share your personal insights and updates.</li>
+        <li><b>Highlight Your Skills and Contributions:</b> Display your expertise and accomplishments effectively.</li>
     </ul>
 
 <h3>Installation/Usage Instructions</h3>
@@ -49,18 +49,17 @@
 Thank you for considering contributing to this project! By contributing, you help make this project better and more useful for everyone.
 
 <br>
-<h4>Getting Started</h4>
+<h4>#Getting Started</h4>
 1. Fork the Repository: Start by forking the repository to your GitHub account.<br>
 2. Clone Your Fork: Clone your fork to your local machine
 
         git clone https://github.com/your-username/repository-name.git
         cd repository-name
-
 <br>3. Set Upstream Repository: Set the original repository as the upstream remote:
 
         git remote add upstream https://github.com/original-author/repository-name.git
 <br>
-<h4>Making Changes</h4>
+<h4>#Making Changes</h4>
 1. Create a New Branch:
 
         git checkout -b feature-name
@@ -68,7 +67,7 @@ Thank you for considering contributing to this project! By contributing, you hel
 <br>2. Make Your Changes: Follow the coding style and conventions.
 <br>3. Test Your Changes: Ensure your changes do not break the project
 
-<br><h4>Submitting Your Contribution</h4>
+<br><h4>#Submitting Your Contribution</h4>
 1. Commit Your Changes:
 
            git add .
@@ -76,9 +75,11 @@ Thank you for considering contributing to this project! By contributing, you hel
 2. Push Your Changes:
 
         git push origin feature-name
-3.Open a Pull Request:
+<br><h4>#Open a Pull Request:<h4>
 <ul>
         <li>Go to the original repository on GitHub.</li>
         <li>Click on Pull Requests and then New Pull Request.</li>
         <li>Add a detailed description of your changes.</li>
 </ul>
+
+</div>
