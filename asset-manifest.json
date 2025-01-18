@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf9e8521.css",
-    "main.js": "/static/js/main.491b8114.js",
-    "static/media/logo.png": "/static/media/logo.a680fbbbbef2452cfb6b.png",
-    "static/media/kalpurush.ttf": "/static/media/kalpurush.d4696e5563960e7910fd.ttf",
-    "static/media/profile.png": "/static/media/profile.09b3bb6e0395051f0be1.png",
-    "static/media/zendPhp.png": "/static/media/zendPhp.e8d0eb5eb85a518fb61f.png",
-    "static/media/tmss_ict.png": "/static/media/tmss_ict.eb5e51ffe9379081bdd2.png",
-    "static/media/aws.png": "/static/media/aws.73a71418d2d689201449.png",
-    "static/media/contribution.png": "/static/media/contribution.623ac1e1cb1405624423.png",
-    "static/media/experience.png": "/static/media/experience.4a52952585530201828c.png",
-    "static/media/contact.png": "/static/media/contact.edd1eb3375187c60df80.png",
-    "static/media/bsLogo.png": "/static/media/bsLogo.723ca12f820be2be6ad0.png",
-    "static/media/doctime.png": "/static/media/doctime.942be63d3a1dc46c5efb.png",
-    "static/media/mockwave.svg": "/static/media/mockwave.1bd2cfa1ee91b7b30b8ed119aea89473.svg",
-    "static/media/github.svg": "/static/media/github.f048bd688183442e3755db3f2922441c.svg",
-    "index.html": "/index.html",
-    "static/media/medium.svg": "/static/media/medium.d7d0d271bb6e2bee57d7e135d3fea7e5.svg",
-    "static/media/facebook.svg": "/static/media/facebook.cea4979af38a0305d49daa98be4ea2da.svg",
-    "main.bf9e8521.css.map": "/static/css/main.bf9e8521.css.map",
-    "main.491b8114.js.map": "/static/js/main.491b8114.js.map"
+    "main.css": "/portfolio-with-blog/static/css/main.0fc04f7a.css",
+    "main.js": "/portfolio-with-blog/static/js/main.2f88dbde.js",
+    "static/media/logo.png": "/portfolio-with-blog/static/media/logo.a680fbbbbef2452cfb6b.png",
+    "static/media/kalpurush.ttf": "/portfolio-with-blog/static/media/kalpurush.d4696e5563960e7910fd.ttf",
+    "static/media/profile.png": "/portfolio-with-blog/static/media/profile.09b3bb6e0395051f0be1.png",
+    "static/media/zendPhp.png": "/portfolio-with-blog/static/media/zendPhp.e8d0eb5eb85a518fb61f.png",
+    "static/media/tmss_ict.png": "/portfolio-with-blog/static/media/tmss_ict.eb5e51ffe9379081bdd2.png",
+    "static/media/aws.png": "/portfolio-with-blog/static/media/aws.73a71418d2d689201449.png",
+    "static/media/contribution.png": "/portfolio-with-blog/static/media/contribution.623ac1e1cb1405624423.png",
+    "static/media/experience.png": "/portfolio-with-blog/static/media/experience.4a52952585530201828c.png",
+    "static/media/contact.png": "/portfolio-with-blog/static/media/contact.edd1eb3375187c60df80.png",
+    "static/media/bsLogo.png": "/portfolio-with-blog/static/media/bsLogo.723ca12f820be2be6ad0.png",
+    "static/media/doctime.png": "/portfolio-with-blog/static/media/doctime.942be63d3a1dc46c5efb.png",
+    "static/media/mockwave.svg": "/portfolio-with-blog/static/media/mockwave.1bd2cfa1ee91b7b30b8ed119aea89473.svg",
+    "static/media/github.svg": "/portfolio-with-blog/static/media/github.f048bd688183442e3755db3f2922441c.svg",
+    "index.html": "/portfolio-with-blog/index.html",
+    "static/media/medium.svg": "/portfolio-with-blog/static/media/medium.d7d0d271bb6e2bee57d7e135d3fea7e5.svg",
+    "static/media/facebook.svg": "/portfolio-with-blog/static/media/facebook.cea4979af38a0305d49daa98be4ea2da.svg",
+    "main.0fc04f7a.css.map": "/portfolio-with-blog/static/css/main.0fc04f7a.css.map",
+    "main.2f88dbde.js.map": "/portfolio-with-blog/static/js/main.2f88dbde.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf9e8521.css",
-    "static/js/main.491b8114.js"
+    "static/css/main.0fc04f7a.css",
+    "static/js/main.2f88dbde.js"
   ]
 }
