@@ -1,6 +1,6 @@
 const locales = {};
 function getAllLocaleFiles() {
-	const context = require.context("../../assets/lang", false, /\.json$/);
+	const context = require.context("../../../public/lang", false, /\.json$/);
 	context.keys().forEach((fileName) => {
 		const locale = fileName.replace("./", "").replace(".json", ""); // Extract file name (e.g., 'en', 'bn')
 		locales[locale] = context(fileName);
