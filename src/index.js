@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
 		<div className="bg-body-wallpaper">
-			<BrowserRouter basename="/portfolio-with-blog">
+			<BrowserRouter basename="/react-portfolio-template-with-blog">
 				<NavbarUI />
 				<WebRoute />
 				<Footer />
