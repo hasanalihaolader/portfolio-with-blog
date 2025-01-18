@@ -1,0 +1,35 @@
+{
+	"home": "Home",
+	"about": "About",
+	"blog": "Tech blog",
+	"recent_article": "Recent article",
+	"read_more": "Read more",
+	"my_contribution": "Contribution for community",
+
+	"navbar_php": "PHP",
+	"navbar_js": "JS",
+	"navbar_oop": "OOP",
+	"navbar_design_pattern": "Design Pattern",
+
+	"intro_greeting": "Hi, My name is",
+	"intro_name": "Hasan ali haolader",
+	"intro": "I have been working in the software industry for over 9 years. For a long time, I have been working with the PHP stack and am currently working with JavaScript. I have extensive experience in developing financial applications that handle high traffic, including notable projects such as microfinance solutions and Grameenphone's digital recharge and digital payment systems.",
+	"intro_label_of_skills": "My Skills",
+
+	"mockwave": "MockWave",
+	"mockwave_heading": "Build your perfect mock api Free",
+	"mockwave_details": "Introducing mockwave — your go-to tool for effortless API mocking! Whether you're building an app or running automated tests, use mockwave you can create and manage API mocks in a snap, so you can focus on development without the wait. Seamlessly accelerate your application and automation testing, and bring your ideas to life faster than ever!",
+	"visit": "Visit Now",
+
+	"footer_contact": "Contact",
+	"footer_download_template": "If you want to download this design template, please click",
+	"footer_copyright": "Copyright @ 2025 Hasan ali haolader",
+	"footer_follow": "Please follow me",
+
+	"about_open_source_contribution": "Open source contribution",
+	"about_certification": "Certification",
+	"about_work_experience": "Work experience",
+
+	"contact": "You can send a email"
+
+}
