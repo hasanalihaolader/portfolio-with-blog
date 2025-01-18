@@ -16,7 +16,7 @@ export default function Introduction() {
 					<img
 						src={logo}
 						alt="Logo"
-						className="z-10 relative logo w-10/12 md:w-12/12"
+						className="z-10 relative logo "
 					/>
 				</div>
 
@@ -32,7 +32,7 @@ export default function Introduction() {
 
 							<br />
 							<br />
-							<div className>
+							<div className="">
 								<Locale label={"intro"} />{" "}
 							</div>
 

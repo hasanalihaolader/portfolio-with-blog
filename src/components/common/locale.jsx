@@ -7,7 +7,8 @@ function getAllLocaleFiles() {
 	});
 }
 export default function Locale({ label }) {
-	const default_lang = process.env.REACT_APP_DEFAULT_LANG;
+
+	const default_lang = process.env.REACT_APP_DEFAULT_LANG || 'bn';
 	getAllLocaleFiles();
     return (<>{locales[default_lang]?.[label] || ''}</>)
 }

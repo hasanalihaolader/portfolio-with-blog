@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
-		<div class="bg-body-wallpaper">
+		<div className="bg-body-wallpaper">
 			<BrowserRouter basename="/portfolio-with-blog">
 				<NavbarUI />
 				<WebRoute />
