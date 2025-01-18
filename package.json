@@ -1,9 +1,11 @@
 {
+  "homepage": "https://hasanalihaolader.github.io/portfolio-with-blog",
   "name": "portfolio-with-blog",
   "version": "1.0.0",
   "description": "A personal blog site with her portfolio",
   "main": "/src/index.js",
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -40,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.17"
   }
 }
