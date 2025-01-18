@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-with-blog/static/css/main.0fc04f7a.css",
-    "main.js": "/portfolio-with-blog/static/js/main.ad9179df.js",
-    "static/media/logo.png": "/portfolio-with-blog/static/media/logo.2564212db962b15d828a.png",
-    "static/media/kalpurush.ttf": "/portfolio-with-blog/static/media/kalpurush.d4696e5563960e7910fd.ttf",
-    "static/media/profile.png": "/portfolio-with-blog/static/media/profile.09b3bb6e0395051f0be1.png",
-    "static/media/zendPhp.png": "/portfolio-with-blog/static/media/zendPhp.e8d0eb5eb85a518fb61f.png",
-    "static/media/tmss_ict.png": "/portfolio-with-blog/static/media/tmss_ict.eb5e51ffe9379081bdd2.png",
-    "static/media/aws.png": "/portfolio-with-blog/static/media/aws.73a71418d2d689201449.png",
-    "static/media/contribution.png": "/portfolio-with-blog/static/media/contribution.623ac1e1cb1405624423.png",
-    "static/media/experience.png": "/portfolio-with-blog/static/media/experience.4a52952585530201828c.png",
-    "static/media/contact.png": "/portfolio-with-blog/static/media/contact.edd1eb3375187c60df80.png",
-    "static/media/bsLogo.png": "/portfolio-with-blog/static/media/bsLogo.723ca12f820be2be6ad0.png",
-    "static/media/doctime.png": "/portfolio-with-blog/static/media/doctime.942be63d3a1dc46c5efb.png",
-    "static/media/mockwave.svg": "/portfolio-with-blog/static/media/mockwave.1bd2cfa1ee91b7b30b8ed119aea89473.svg",
-    "static/media/github.svg": "/portfolio-with-blog/static/media/github.f048bd688183442e3755db3f2922441c.svg",
-    "index.html": "/portfolio-with-blog/index.html",
-    "static/media/medium.svg": "/portfolio-with-blog/static/media/medium.d7d0d271bb6e2bee57d7e135d3fea7e5.svg",
-    "static/media/facebook.svg": "/portfolio-with-blog/static/media/facebook.cea4979af38a0305d49daa98be4ea2da.svg",
-    "main.0fc04f7a.css.map": "/portfolio-with-blog/static/css/main.0fc04f7a.css.map",
-    "main.ad9179df.js.map": "/portfolio-with-blog/static/js/main.ad9179df.js.map"
+    "main.css": "/react-portfolio-template-with-blog/static/css/main.0d968f0b.css",
+    "main.js": "/react-portfolio-template-with-blog/static/js/main.d0950364.js",
+    "static/media/logo.png": "/react-portfolio-template-with-blog/static/media/logo.2564212db962b15d828a.png",
+    "static/media/kalpurush.ttf": "/react-portfolio-template-with-blog/static/media/kalpurush.d4696e5563960e7910fd.ttf",
+    "static/media/profile.png": "/react-portfolio-template-with-blog/static/media/profile.09b3bb6e0395051f0be1.png",
+    "static/media/zendPhp.png": "/react-portfolio-template-with-blog/static/media/zendPhp.e8d0eb5eb85a518fb61f.png",
+    "static/media/tmss_ict.png": "/react-portfolio-template-with-blog/static/media/tmss_ict.eb5e51ffe9379081bdd2.png",
+    "static/media/aws.png": "/react-portfolio-template-with-blog/static/media/aws.73a71418d2d689201449.png",
+    "static/media/contribution.png": "/react-portfolio-template-with-blog/static/media/contribution.623ac1e1cb1405624423.png",
+    "static/media/experience.png": "/react-portfolio-template-with-blog/static/media/experience.4a52952585530201828c.png",
+    "static/media/contact.png": "/react-portfolio-template-with-blog/static/media/contact.edd1eb3375187c60df80.png",
+    "static/media/bsLogo.png": "/react-portfolio-template-with-blog/static/media/bsLogo.723ca12f820be2be6ad0.png",
+    "static/media/doctime.png": "/react-portfolio-template-with-blog/static/media/doctime.942be63d3a1dc46c5efb.png",
+    "static/media/mockwave.svg": "/react-portfolio-template-with-blog/static/media/mockwave.1bd2cfa1ee91b7b30b8ed119aea89473.svg",
+    "static/media/github.svg": "/react-portfolio-template-with-blog/static/media/github.f048bd688183442e3755db3f2922441c.svg",
+    "index.html": "/react-portfolio-template-with-blog/index.html",
+    "static/media/medium.svg": "/react-portfolio-template-with-blog/static/media/medium.d7d0d271bb6e2bee57d7e135d3fea7e5.svg",
+    "static/media/facebook.svg": "/react-portfolio-template-with-blog/static/media/facebook.cea4979af38a0305d49daa98be4ea2da.svg",
+    "main.0d968f0b.css.map": "/react-portfolio-template-with-blog/static/css/main.0d968f0b.css.map",
+    "main.d0950364.js.map": "/react-portfolio-template-with-blog/static/js/main.d0950364.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc04f7a.css",
-    "static/js/main.ad9179df.js"
+    "static/css/main.0d968f0b.css",
+    "static/js/main.d0950364.js"
   ]
 }
