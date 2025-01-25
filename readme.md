@@ -41,7 +41,7 @@
         react-router: To handle routes
 
 <h4>Live Demo Link</h4>
-<a href="https://hasanalihaolader.github.io/portfolio-with-blog">Visit the Live Demo</a>
+<a target="__blank" href="https://hasanalihaolader.github.io/react-portfolio-template-with-blog/">Visit the Live Demo</a>
 
 
 <hr>
