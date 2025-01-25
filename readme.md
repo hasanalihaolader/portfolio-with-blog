@@ -53,7 +53,7 @@ Thank you for considering contributing to this project! By contributing, you hel
 1. Fork the Repository: Start by forking the repository to your GitHub account.<br>
 2. Clone Your Fork: Clone your fork to your local machine
 
-        git clone https://github.com/your-username/repository-name.git
+        git clone https://github.com/hasanalihaolader/react-portfolio-template-with-blog.git
         cd repository-name
 <br>3. Set Upstream Repository: Set the original repository as the upstream remote:
 
